@@ -7,6 +7,54 @@ Cybersecurity | SOC Analyst | Threat Detection | Penetration Testing
 I'm a Cybersecurity enthusiast and Computer Engineering graduate with hands-on experience in SOC operations, SIEM monitoring, EDR investigation, incident response, threat detection, and offensive security.
 My approach to cybersecurity combines a defender's mindset with an adversary-aware perspective, allowing me to understand how attacks work while focusing on detecting, investigating, and responding to them.
 
+🚀 Featured Projects
+
+🔬 File Header Analysis Tool — Graduation Project
+
+A PowerShell-based malware detection tool designed to identify disguised files and extension spoofing through file header / magic byte analysis.
+
+Key features:
+
+File header and magic byte analysis
+Detection of extension spoofing
+Automated file validation
+VirusTotal API integration
+Multi-engine malware detection
+Security automation
+
+Concepts: Malware Analysis Digital Forensics Threat Detection PowerShell Security Automation
+
+⚔️ Ripper Server — Penetration Testing Lab
+
+End-to-end penetration testing lab focused on identifying vulnerabilities and demonstrating the impact of successful exploitation.
+
+Performed:
+
+Network reconnaissance
+Service enumeration
+Web enumeration
+Vulnerability identification
+Credential exposure analysis
+Post-exploitation enumeration
+Root-level compromise validation
+
+Tools: Nmap Gobuster Nikto SSH Webmin
+
+🔎 Passive OSINT Reconnaissance — hackthissite.org
+
+Performed passive reconnaissance to identify exposed infrastructure and publicly available information.
+
+Performed:
+
+Subdomain enumeration
+Email harvesting
+Infrastructure reconnaissance
+OSINT analysis
+CORS configuration assessment
+Security risk documentation
+
+Tools: Sublist3r theHarvester Shodan Netlas.io SpiderFoot
+
 Certifications
 
 <p align="center">
@@ -22,3 +70,15 @@ Certifications
 <a href="https://www.comptia.org/en/certifications/security/"> <img src="https://img.shields.io/badge/CompTIA-Security%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/> </a>
 
 </p>
+
+🤝 Let's Connect
+
+I'm always interested in connecting with cybersecurity professionals, SOC analysts, penetration testers, and security enthusiasts.
+
+LinkedIn:
+linkedin.com/in/shaheen-hamza-021b46354
+
+Email:
+Shaheen.Hamza@outlook.sa
+
+Phone number: +966 56 195 0645
