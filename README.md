@@ -4,8 +4,22 @@
 
 Cybersecurity | SOC Analyst | Threat Detection | SIEM Monitoring and investigation
 
-I'm a Cybersecurity enthusiast and Computer Engineering graduate with hands-on experience in SOC operations, SIEM monitoring, EDR investigation, incident response, threat detection, and offensive security.
+I'm a Cybersecurity enthusiast and Computer Engineering graduate with hands-on experience in SOC operations, SIEM monitoring, EDR investigation, threat detection, and offensive security.
 My approach to cybersecurity combines a defender's mindset with an adversary-aware perspective, allowing me to understand how attacks work while focusing on detecting, investigating, and responding to them.
+
+## Experience
+🛡️ Cybersecurity SOC COOP
+
+Royal Commission for Jubail and Yanbu
+June 2025 — January 2026
+
+* Monitored SIEM alerts and dashboards to identify abnormal behavior and potential security incidents.
+* Investigated EDR detections by analyzing processes, file activity, and network traffic.
+* Supported incident handling, evidence collection, investigation, and response activities.
+* Assessed endpoint protection, vulnerability-scan results, and security alert configurations.
+* Worked with security and IT teams to address misconfigurations and security gaps.
+* Participated in controlled red-team activities including reconnaissance, scanning, enumeration, and penetration testing.
+* Produced technical and executive-level security reports.
 
 
 ## Skills
@@ -106,10 +120,18 @@ Tools: Sublist3r theHarvester Shodan Netlas.io SpiderFoot
 
 I'm always interested in connecting with cybersecurity professionals, SOC analysts, penetration testers, and security enthusiasts.
 
-LinkedIn:
-linkedin.com/in/shaheen-hamza-021b46354
+<p align="center">
 
-Email:
-Shaheen.Hamza@outlook.sa
+<a href="https://www.linkedin.com/in/shaheen-hamza-021b46354"> <img src="https://img.shields.io/badge/LinkedIn-Shaheen%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-Phone number: +966 56 195 0645
+<a href="mailto:Shaheen.Hamza@outlook.sa"> <img src="https://img.shields.io/badge/Email-Shaheen.Hamza%40outlook.sa-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/> </a>
+
+</p>
+
+<p align="center">
+
+<a href="tel:+966561950645"> <img src="https://img.shields.io/badge/Phone-%2B966%2056%20195%200645-25D366?style=for-the-badge&logo=phone&logoColor=white"/> </a>
+
+</p>
+
+<p align="center"> <strong>Understand the attack. Detect the threat. Defend the environment.</strong> </p>
