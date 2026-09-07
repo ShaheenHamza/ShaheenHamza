@@ -28,7 +28,7 @@ June 2025 — January 2026
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Monitoring & Log Analysis                 | SOC COOP |
+| SIEM Monitoring & Log Analysis                 | SOC COOP/eCTHP |
 | Endpoint Detection & Response (EDR)            | SOC COOP |
 | Threat Hunting                                 | SOC COOP/eCTHP |
 | Technical Security Reporting                   | SOC COOP |
