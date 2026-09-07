@@ -7,6 +7,44 @@ Cybersecurity | SOC Analyst | Threat Detection | Penetration Testing
 I'm a Cybersecurity enthusiast and Computer Engineering graduate with hands-on experience in SOC operations, SIEM monitoring, EDR investigation, incident response, threat detection, and offensive security.
 My approach to cybersecurity combines a defender's mindset with an adversary-aware perspective, allowing me to understand how attacks work while focusing on detecting, investigating, and responding to them.
 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Monitoring & Log Analysis                 | SOC COOP |
+| Endpoint Detection & Response (EDR)            | SOC COOP |
+| Threat Hunting                                 | SOC COOP |
+| Technical Security Reporting                   | SOC COOP |
+| Threat Detection & Alert Investigation         | SOC COOP |
+| Network Reconnaissance & Port & Service Enumeration | eJPT |
+| Credential Discovery & Linux Penetration Testing    | eJPT |
+| Web Application Reconnaissance & Penetration Testing | eWPT |
+| HTTP/HTTPS Analysis & Web Directory                  | eWPT |
+
+
+## Tools
+
+Defensive Security
+
+<p> <img src="https://img.shields.io/badge/SIEM-2F81F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/EDR-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Threat%20Hunting-B71C1C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Incident%20Response-455A64?style=for-the-badge"/> </p>
+
+Network & Reconnaissance
+
+<p> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white"/> <img src="https://img.shields.io/badge/Netlas-1E88E5?style=for-the-badge"/> </p>
+
+Web & Penetration Testing
+
+<p> <img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/Webmin-7B1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=gnu-bash&logoColor=white"/> </p>
+
+OSINT
+
+<p> <img src="https://img.shields.io/badge/Sublist3r-222222?style=for-the-badge"/> <img src="https://img.shields.io/badge/theHarvester-222222?style=for-the-badge"/> <img src="https://img.shields.io/badge/SpiderFoot-222222?style=for-the-badge"/> <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white"/> </p>
+
+
+
+Scripting & Security Automation
+
+<p> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal%20API-3949AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
+
 ## Featured Project🚀 
 
 ## File Header Analysis Tool — Graduation Project🔬 
