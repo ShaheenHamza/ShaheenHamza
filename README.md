@@ -1,8 +1,8 @@
 # Hello, I'm Shaheen Hamza 👋
 
-<a href="https://linkedin.com/in/shaheen-hamza-021b46354"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shaheen.hamza@outlook.sa">
+<a href="https://linkedin.com/in/shaheen-hamza-021b46354"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://outlook.live.com/mail/0/deeplink/compose?to=shaheen.hamza@outlook.sa" target="_blank">
   <img src="https://img.shields.io/badge/-shaheen.hamza%40outlook.sa-0072b1?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</a> <a href="tel:+966561950645"><img src="https://img.shields.io/badge/-+966%2056%20195%200645-0072b1?&style=for-the-badge&logo=phone&logoColor=white" /></a> 
+</a> <img src="https://img.shields.io/badge/-+966%2056%20195%200645-0072b1?&style=for-the-badge&logo=phone&logoColor=white" /> 
 
 Cybersecurity | SOC Analyst | Threat Detection | SIEM Monitoring and investigation
 
