@@ -30,9 +30,9 @@ June 2025 — January 2026
 |-----------------------------------------------|----------------------------|
 | SIEM Monitoring & Log Analysis                 | SOC COOP |
 | Endpoint Detection & Response (EDR)            | SOC COOP |
-| Threat Hunting                                 | SOC COOP |
+| Threat Hunting                                 | SOC COOP/eCTHP |
 | Technical Security Reporting                   | SOC COOP |
-| Threat Detection & Alert Investigation         | SOC COOP |
+| Threat Detection & Alert Investigation         | SOC COOP/eCTHP |
 | Network Reconnaissance & Port and Service Enumeration | eJPT |
 | Credential Discovery & Linux Penetration Testing      | eJPT |
 | Web Application Reconnaissance & Penetration Testing  | eWPT |
