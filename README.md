@@ -1,6 +1,6 @@
 # Hello, I'm Shaheen Hamza 👋
 
-<a href="https://linkedin.com/in/shaheen-hamza-021b46354"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shaheen-hamza-021b46354"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shaheen.hamza@outlook.sa"><img src="https://img.shields.io/badge/-shaheen.hamza%40outlook.sa-0072b1?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a> <a href="tel:+966561950645"><img src="https://img.shields.io/badge/-+966%2056%20195%200645-0072b1?&style=for-the-badge&logo=phone&logoColor=white" /></a> 
 
 Cybersecurity | SOC Analyst | Threat Detection | SIEM Monitoring and investigation
 
@@ -116,17 +116,7 @@ Tools: Sublist3r theHarvester Shodan Netlas.io SpiderFoot
 
 </p>
 
-## Let's Connect🤝 
 
-I'm always interested in connecting with cybersecurity professionals, SOC analysts, penetration testers, and security enthusiasts.
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shaheen-hamza-021b46354"> <img src="https://img.shields.io/badge/LinkedIn-Shaheen%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="mailto:Shaheen.Hamza@outlook.sa"> <img src="https://img.shields.io/badge/Email-Shaheen.Hamza%40outlook.sa-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/> </a>
-
-</p>
 
 <p align="center">
 
