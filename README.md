@@ -42,11 +42,11 @@ June 2025 — January 2026
 
 🔵 SOC & Defensive Security
 
-<p> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/SIEM-1F6FEB?style=for-the-badge"/> <img src="https://img.shields.io/badge/EDR-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Threat%20Hunting-1D4ED8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Incident%20Response-1E40AF?style=for-the-badge"/> </p>
+<p> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/SIEM-1F6FEB?style=for-the-badge"/> <img src="https://img.shields.io/badge/EDR-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Threat%20Hunting-1D4ED8?style=for-the-badge"/> 
 
 🔴 Offensive Security & Penetration Testing
 
-<p> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/Webmin-7B1FA2?style=for-the-badge"/> </p>
+<p> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/> 
 
 ## Featured Project🚀 
 
