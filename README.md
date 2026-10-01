@@ -52,6 +52,37 @@ June 2025 — January 2026
 
 ## Featured Project🚀 
 
+## SOAR + EDR Automated Incident Response 🚨
+
+A hands-on cybersecurity project focused on building an automated SOC workflow that connects endpoint detection, security alerting, analyst decision-making, and incident response.
+
+The project started by designing an incident response workflow and identifying the actions that should take place after a security detection. I then deployed LimaCharlie EDR on my endpoint to collect and monitor telemetry such as processes, file hashes, services, logs, and other endpoint activity.
+
+I created and tested a Detection & Response rule in LimaCharlie using a controlled lab scenario. I installed LaZagne from GitHub to simulate suspicious activity, and the detection successfully identified the activity and triggered the configured response action.
+
+To automate the alerting process, I integrated LimaCharlie with Tines and Slack using Webhooks. When a threat is detected, the workflow automatically sends an alert to a dedicated Slack channel and generates an email containing the relevant detection information.
+
+I also implemented an analyst decision step where the workflow asks whether the affected machine should be isolated. If the analyst selects Yes, the workflow triggers the endpoint isolation response.
+
+This project demonstrates how EDR and SOAR can work together to reduce manual SOC tasks and create an end-to-end workflow from:
+
+Detection → Alert → Notification → Analyst Decision → Automated Response
+
+Performed:
+
+* Designed an automated SOC and incident response workflow
+* Deployed and monitored an endpoint using LimaCharlie EDR
+* Created and tested Detection & Response rules
+* Simulated suspicious activity using LaZagne in a controlled lab
+* Integrated LimaCharlie, Tines, and Slack using Webhooks
+* Automated security alerts and email notifications
+* Implemented an analyst approval workflow for endpoint isolation
+* Practiced detection engineering, alert triage, and automated incident response
+
+Tools:
+
+LimaCharlie | Tines | Slack | Webhooks | LaZagne
+
 ## File Header Analysis Tool — Graduation Project🔬 
 
 A PowerShell-based malware detection tool designed to identify disguised files and extension spoofing through file header / magic byte analysis.
